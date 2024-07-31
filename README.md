@@ -8,7 +8,6 @@ Prerequesites:
 
 [Druid](https://monome.org/docs/crow/druid/)
 
-```powershell
+## Installation
 
-
-```
+Run `druid upload jf-poly-driver.lua`

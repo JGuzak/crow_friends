@@ -10,4 +10,9 @@ Prerequesites:
 
 ## Installation
 
-Run `druid upload jf-poly-driver.lua`
+Run `druid upload jf-poly-driver.lua` from command line
+
+or
+
+1. Launch druid from the root directory of this repo.
+2. Type `u jf-poly-driver.lua` and press enter.
